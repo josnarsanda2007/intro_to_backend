@@ -1,0 +1,23 @@
+{
+  "name": "intro_to_backend",
+  "version": "1.0.0",
+  "description": "A tutorial for intro to backend",
+  "homepage": "https://github.com/josnarsanda2007/intro_to_backend#readme",
+  "bugs": {
+    "url": "https://github.com/josnarsanda2007/intro_to_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josnarsanda2007/intro_to_backend.git"
+  },
+  "license": "ISC",
+  "author": "Hani",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository(https://github.com/josnarsanda2007/intro_to_backend.git)"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
